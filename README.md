@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Udhay299
-- 👀 I’m interested in ai and ml
-- 🌱 I’m currently learning 12th
+- 👀 I’m interested in Full stack developer 
+- 🌱 I’m currently learning Engineering 
 - 💞️ I’m looking to collaborate on apple 
 - 📫 How to reach me ...
 
